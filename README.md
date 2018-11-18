@@ -1,2 +1,3 @@
 # macchanger
-#python code
+#python code for macchanger and scanning over wifi network
+#download files and change extension as .py and start executing
